@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Special Gothic Expanded One", sans-serif;
+}
+body{
+    background-color: #ffffff;
+    padding-left: 10;
+}
+header{
+    background-image: url("https://jbaimoveis.com.br/media/jbaimoveis/2019/02/melhores-bairros-de-curitiba-blog.jpg");
+    color: #ffffff;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: left;
+}  
+
+div#ptc{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 15px;
+    text-align: left;
+}
+
+.lm{
+    color: #ffffff;
+    font-size: 10px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: #ffffff
+}
+#tx1{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 15px;
+    text-align: left;
+}
+#cptc{
+    font-size: 30px;
+    text-align: center;
+    background-color: #B8EDA5;
+    color: #DC6A58;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+nav{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: #B8EDA5;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.dcwb{
+    color: #DC6A58;
+}
+.lugares{
+    background-color: #26690d;
+    color: #ffffff;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
